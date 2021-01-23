@@ -1,0 +1,57 @@
+[submodule "coc.nvim"]
+	path = pack/bundle/opt/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+	branch = release
+
+[submodule "deoplete.nvim"]
+	path = pack/bundle/opt/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
+
+[submodule "deoplete-lsp"]
+	path = pack/bundle/opt/deoplete-lsp
+	url = https://github.com/Shougo/deoplete-lsp.git
+
+[submodule "editorconfig-vim"]
+	path = pack/bundle/opt/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+
+[submodule "fzf.vim"]
+	path = pack/bundle/opt/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+
+[submodule "goyo.vim"]
+	path = pack/bundle/opt/goyo.vim
+	url = https://github.com/junegunn/goyo.vim.git
+
+[submodule "nerdcommenter"]
+	path = pack/bundle/opt/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+
+[submodule "nerdtree"]
+	path = pack/bundle/opt/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+
+[submodule "nord-vim"]
+	path = pack/bundle/opt/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
+
+[submodule "typescript-vim"]
+	path = pack/bundle/opt/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+
+[submodule "vim-abolish"]
+	path = pack/bundle/opt/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+
+[submodule "vim-fugitive"]
+	ignore = untracked
+	path = pack/bundle/opt/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+
+[submodule "vim-markdown"]
+	path = pack/bundle/opt/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+
+[submodule "vim-surround"]
+	path = pack/bundle/opt/vim-surround
+	url = https://github.com/tpope/vim-surround.git
