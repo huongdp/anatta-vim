@@ -55,3 +55,6 @@
 [submodule "vim-surround"]
 	path = pack/bundle/opt/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "vim-javascript"]
+	path = pack/bundle/opt/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
